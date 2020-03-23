@@ -1,0 +1,11 @@
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.csprojAssemblyReference.cache
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfo.cs
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.exe
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.deps.json
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.json
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.dev.json
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.pdb
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\John Paul\Desktop\Programing\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.pdb
